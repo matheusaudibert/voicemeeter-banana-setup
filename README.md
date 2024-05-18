@@ -73,3 +73,11 @@ Extraia os arquivos para um pasta e execute o aplicativo **VBCABLE_Setup_x64** c
 ![Logo](images/vac_install.png)
 
 Após ter feito a instalação do **Voicemeeter Banana** e do **Virtual Audio Cable**, reinicie o seu computador.
+
+## Configurando o Voicemeeter Banana
+
+Depois de renicializar o seu computador, digite na barra de pesquisa do Windows: "Banana", e abra o aplicativo.
+
+Ao abrir o aplicativo pela primeira vez, você vai se deparar com algo neste estilo:
+
+![Logo](images/vac_interface.png)
