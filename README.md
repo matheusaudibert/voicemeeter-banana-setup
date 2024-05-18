@@ -46,7 +46,7 @@ Portanto, você conseguirá manipular separadamente cada uma dessas faixas de á
 
 1. **Faça o download do arquivo do Voicemeeter Banana.**
 
-   Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm (Será usada a versão Banana 🍌).
+   Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm
 
    Após concluir o download do arquivo, inicie-o e clique em "Install".
 
@@ -55,3 +55,4 @@ Portanto, você conseguirá manipular separadamente cada uma dessas faixas de á
 ## Instalação do Virtual Audio Cable
 
 1. **Faça o download do arquivo do Virtual Audio Cable.**
+   Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Cable/index.htm
