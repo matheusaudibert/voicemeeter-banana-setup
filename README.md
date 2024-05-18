@@ -20,6 +20,8 @@
 
 Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm (Será usada a versão Banana 🍌).
 
+![Logo](images/install_voice_meeter.png)
+
 Após concluir o download do arquivo inicie-o e clique em "Install".
 
 ![Logo]((images/install_voice_meeter.png)
