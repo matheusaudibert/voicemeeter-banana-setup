@@ -13,3 +13,10 @@
 4. [Plugins](#plugins)
 
 5. [Créditos](#créditos)
+
+## Instalação Voice Meeter
+
+1. **Faça o download do arquivo do Voice Meeter.**
+   Faça o dowload [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm
+
+Após fazer o dowload execute o arquivo e reinicie seu computador.
