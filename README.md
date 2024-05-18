@@ -1,1 +1,1 @@
-# voice-meeter-discord
+# voice_meeter_discord
