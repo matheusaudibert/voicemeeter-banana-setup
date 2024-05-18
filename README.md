@@ -90,6 +90,6 @@ Não se assuste, esta é a interface padrão do **Voicemeeter Banana**, e logo v
 
 2. Clique com o botão direito em **VIRTUAL INPUTS** e nomeie cada seção com um nome (**Sound** e **Voice**):
 
-Seu programa deve estar desta maneira:
+   Seu programa deve estar desta maneira:
 
-![Logo](images/vmb_virtual_inputs.png)
+   ![Logo](images/vmb_virtual_inputs.png)
