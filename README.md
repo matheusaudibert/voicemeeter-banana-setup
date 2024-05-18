@@ -88,8 +88,64 @@ Não se assuste, esta é a interface padrão do **Voicemeeter Banana**, e logo v
 
 1. Clique em **MENU** e habilite as opções **System Tray** e **Run on Windows Startup**.
 
-2. Clique com o botão direito em **VIRTUAL INPUTS** e nomeie cada seção com um nome (**Sound** e **Voice**):
+2. Clique com o botão direito em **HARDWARE INPUT 1** e nomeie a seção como **Mic**.
+
+3. Clique em **Mic** e selecione o seu **microfone**, o dispositvo que você está usando para de comunicar. A opção selecionada deve ser do tipo **WDM**.
+
+   Seu programa deve estar desta maneira:
+
+   ![Logo](images/vmb_mic.png)
+
+   Isso quer dizer que a faixa, que vai reproduzir a sua voz, foi configurada.
+
+4. Clique com o botão direito em **HARDWARE INPUT 2** e nomeie a seção como **Music**.
+
+5. Clique em **Music** e selecione a opção **WDM: CABLE Output (VB-Audio Virtual Cable)**
+
+   Seu programa deve estar desta maneira:
+
+   ![Logo](images/vmb_music.png)
+
+   Isso quer dizer que a faixa, em que suas músicas serão reproduzidas, foi configurada.
+
+6. Clique com o botão direito em **VIRTUAL INPUTS** e nomeie cada seção com um nome: **Sound** e **Voice**:
 
    Seu programa deve estar desta maneira:
 
    ![Logo](images/vmb_virtual_inputs.png)
+
+   Isso quer dizer que a faixa da direita será destinada aos **Aplicativos de comunicação** e a faixa da esquerda aos **Aplicativos restantes**.
+
+7. Clique em **HARDWARE INPUT (A1)** e selecione o seu **Alto-Falante**, o dispositivo que você esta usando para **receber** áudio. A opção selecionada deve ser do tipo **WDM**.
+
+8. Deixe a opção **B1** habilitada apenas na primeira linha de áudio.
+
+9. Clique em **MENU** e em seguida em **Restart Audio Engine**.
+
+10. Clique em **MENU** e em seguida em **System Settings / Options...**.
+
+    Nesta etapa, certifiqui-se de que a frequência do programa esteja em 48.000 Hz.
+
+    Caso seu aplicativo não esteja configurado com a frequência correta você deve altera-lá clicando em **Preferred Main SampleRate** e selecionando **48.000 Hz**.
+
+Após seguir todos os passos corretamente, o seu **Voicemeeter Banana** estará devidamente configurado, agora falta configurar as opções de áudio do Windows.
+
+## Configurando o Windows
+
+Digite **Sons** na barra de pesquisa do Windows e abra as configurações de som.
+
+![Logo](images/w_sounds.png)
+
+1. Vá até **VoiceMeeter Aux Input** e clique duas vezes.
+
+   Feito isso, vá até **Avançado** e defina o formato padrão para **16 bit(s), 48000 Hz (Qualidade de DVD)**
+
+   ![Logo](images/w_bit.png)
+
+2. Faça a mesma coisa para **VoiceMeeter Input**
+
+3. Clique com o botão direito sobre o **VoiceMeeter Input** e defina ele como **Dispositivo Padrão**.
+
+4. Clique com o botão direito sobre o **VoiceMeeter Aux Input** e defina ele como **Dispositivo de Cominicação Padrão**.
+
+5. Clique
