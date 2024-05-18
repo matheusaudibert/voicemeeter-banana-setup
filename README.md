@@ -58,8 +58,6 @@ Portanto, você conseguirá manipular separadamente cada uma dessas faixas de á
 
 ## Instalação do Voicemeeter Banana
 
-**Faça o download do arquivo do Voicemeeter Banana.**
-
 Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_banana/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm
 
 Após concluir o download do arquivo, inicie-o e clique em "Install".
@@ -67,8 +65,6 @@ Após concluir o download do arquivo, inicie-o e clique em "Install".
 ![Logo](images/vmb_install.png)
 
 ## Instalação do Virtual Audio Cable
-
-**Faça o download do arquivo do Virtual Audio Cable.**
 
 **Virtual Audio Cable (VAC)**, também conhecido como **Cabo de Áudio Virtual**, é um dispositivo de entrada e saída de áudio virtual que funciona como uma ponte entre diferentes programas e aplicativos. Ele permite que você roteie o áudio de um programa para outro, sem a necessidade de cabos físicos.
 
