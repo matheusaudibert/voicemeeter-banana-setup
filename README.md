@@ -32,11 +32,11 @@ O Voicemeeter Banana é um software gratuito de mixagem de áudio virtual para W
 
 Neste repostório será desmonstrado como instalar e configurar o Voicemeeter Banana para separar faixas de áudios advindas de:
 
-**aplicativos de músicas** (Spotify, Deezer, Soundcloud...)
+**Aplicativos de músicas** (Spotify, Deezer, Soundcloud...)
 
-**aplicativos de comunicação** (Discord, TeamSpeak, VOIPs... )
+**Aplicativos de comunicação** (Discord, TeamSpeak, VOIPs... )
 
-**aplicativos restantes** (navegadores, jogos, notificações...).
+**Aplicativos restantes** (navegadores, jogos, notificações...).
 
 Portanto, você conseguirá manipular separadamente cada uma dessas faixas de áudio.
 
