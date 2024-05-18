@@ -140,7 +140,7 @@ Digite **Sons** na barra de pesquisa do Windows e abra as configurações de som
 
    Feito isso, vá até **Avançado** e defina o formato padrão para **16 bit(s), 48000 Hz (Qualidade de DVD)**
 
-   ![Logo](images/w_bit.png)
+   ![Logo](images/w_16bit.png)
 
 2. Faça a mesma coisa para **VoiceMeeter Input**
 
