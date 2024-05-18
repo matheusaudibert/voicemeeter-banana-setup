@@ -54,20 +54,20 @@ Portanto, você conseguirá manipular separadamente cada uma dessas faixas de á
 
 1. **Faça o download do arquivo do Voicemeeter Banana.**
 
-Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm
+   Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm
 
-Após concluir o download do arquivo, inicie-o e clique em "Install".
+   Após concluir o download do arquivo, inicie-o e clique em "Install".
 
-![Logo](images/vmb_install.png)
+   ![Logo](images/vmb_install.png)
 
 ## Instalação do Virtual Audio Cable
 
 1. **Faça o download do arquivo do Virtual Audio Cable.**
 
-Virtual Audio Cable (VAC), também conhecido como Cabo de Áudio Virtual, é um dispositivo de entrada e saída de áudio virtual que funciona como uma ponte entre diferentes programas e aplicativos. Ele permite que você roteie o áudio de um programa para outro, sem a necessidade de cabos físicos.
+   Virtual Audio Cable (VAC), também conhecido como Cabo de Áudio Virtual, é um dispositivo de entrada e saída de áudio virtual que funciona como uma ponte entre diferentes programas e aplicativos. Ele permite que você roteie o áudio de um programa para outro, sem a necessidade de cabos físicos.
 
-Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Cable/index.htm
+   Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Cable/index.htm
 
-Extraia os arquivos para um pasta e execute o aplicativo **VBCABLE_Setup_x64** como administrador e cliquei em "Install Driver".
+   Extraia os arquivos para um pasta e execute o aplicativo **VBCABLE_Setup_x64** como administrador e cliquei em "Install Driver".
 
-![Logo](images/vac_install.png)
+   ![Logo](images/vac_install.png)
