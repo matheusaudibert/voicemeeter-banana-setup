@@ -24,4 +24,4 @@ Após concluir o download do arquivo inicie-o e clique em "Install".
 
 ![Logo](images/install_voice_meeter.png)
 
-(Não será necessário reiniciar o computador agora.)
+O windows exibirá uma mensagem dizendo que o sistema deve ser reiniciado, porém não reinicie. A reinicialização da máquina será feita apenas no final de todos os processos.
