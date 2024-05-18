@@ -48,7 +48,11 @@ Portanto, você conseguirá manipular separadamente cada uma dessas faixas de á
 
 4. [Configurando o Windows](#configurando-o-windows)
 
-5. [Créditos](#créditos)
+5. [Configurando a Saída de Música](#configurando-a-saída-de-música)
+
+6. [Configurando a Saída de Comunicação](#configurando-a-saída-de-comunicação)
+
+7. [Créditos](#créditos)
 
 ## Instalação do Voicemeeter Banana
 
@@ -136,16 +140,42 @@ Digite **Sons** na barra de pesquisa do Windows e abra as configurações de som
 
 ![Logo](images/w_sounds.png)
 
-1. Vá até **VoiceMeeter Aux Input** e clique duas vezes.
+1. Vá até **VoiceMeeter Aux Input** e clique duas vezes sobre ele.
 
    Feito isso, vá até **Avançado** e defina o formato padrão para **16 bit(s), 48000 Hz (Qualidade de DVD)**
 
    ![Logo](images/w_16bit.png)
 
-2. Faça a mesma coisa para **VoiceMeeter Input**
+2. Faça a mesma coisa para **VoiceMeeter Input**.
 
 3. Clique com o botão direito sobre o **VoiceMeeter Input** e defina ele como **Dispositivo Padrão**.
 
 4. Clique com o botão direito sobre o **VoiceMeeter Aux Input** e defina ele como **Dispositivo de Cominicação Padrão**.
 
-5. Clique
+   Seus dispositivos devem estar desta meneira:
+
+   ![Logo](images/w_default.png)
+
+5. Clique com o botão direito em **ambos VoiceMeeter** e clique em **Desabilitar** e na sequência **habilite** eles novamente.
+
+6. Agora, vá até a aba **Gravação**.
+
+7. Vá até **VoiceMeeter Aux Output** e clique duas vezes sobre ele.
+
+   Feito isso, vá até **Avançado** e defina o formato padrão para **Canal 2, 16 bit(s), 48000 Hz (Qualidade de DVD)**
+
+   ![Logo](images/w_2channel.png)
+
+8. Faça a mesma coisa para **VoiceMeeter Output**.
+
+9. Clique com o botão direito sobre o **VoiceMeeter Output** e defina ele como **Dispositivo Padrão** e **Dispositivo de Cominicação Padrão**.
+
+   Seu dispositivo deve estar desta meneira:
+
+   ![Logo](images/w_default2.png)
+
+Feito isso, seu windows já esta configurado. O últimos passos são configurar a saída de **Música** e configurar a saída de **comunicação**. Para isso vou utilizar como exemplo o **Spotify** e o **Discord**.
+
+## Configurando a Saída de Música
+
+## Configurando a Saída de Comunicação
