@@ -1,6 +1,6 @@
 # Instalando e configurando o Voicemeeter Banana
 
-O Voicemeeter Banana é um software gratuito de mixagem de áudio virtual para Windows. Ele funciona como uma mesa de som digital, permitindo que você conecte e misture diversas fontes de áudio de maneira fácil e com controle preciso da qualidade do som.
+O **Voicemeeter Banana** é um software gratuito de mixagem de áudio virtual para Windows. Ele funciona como uma mesa de som digital, permitindo que você conecte e misture diversas fontes de áudio de maneira fácil e com controle preciso da qualidade do som.
 
 ![Logo](images/vmb_thumbnail.png)
 
@@ -30,7 +30,7 @@ O Voicemeeter Banana é um software gratuito de mixagem de áudio virtual para W
 
 ## Índice
 
-Neste repostório será desmonstrado como instalar e configurar o Voicemeeter Banana para separar faixas de áudios advindas de:
+Neste repostório será desmonstrado como instalar e configurar o **Voicemeeter Banana** para separar faixas de áudios advindas de:
 
 **Aplicativos de músicas** (Spotify, Deezer, Soundcloud...)
 
@@ -64,10 +64,12 @@ Após concluir o download do arquivo, inicie-o e clique em "Install".
 
 **Faça o download do arquivo do Virtual Audio Cable.**
 
-Virtual Audio Cable (VAC), também conhecido como Cabo de Áudio Virtual, é um dispositivo de entrada e saída de áudio virtual que funciona como uma ponte entre diferentes programas e aplicativos. Ele permite que você roteie o áudio de um programa para outro, sem a necessidade de cabos físicos.
+**Virtual Audio Cable (VAC)**, também conhecido como **Cabo de Áudio Virtual**, é um dispositivo de entrada e saída de áudio virtual que funciona como uma ponte entre diferentes programas e aplicativos. Ele permite que você roteie o áudio de um programa para outro, sem a necessidade de cabos físicos.
 
 Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_banana/blob/main/virtualaudiocable/VBCABLE_Driver_Pack43.zip) ou baixe no site oficial: https://vb-audio.com/Cable/index.htm
 
 Extraia os arquivos para um pasta e execute o aplicativo **VBCABLE_Setup_x64** como administrador e cliquei em "Install Driver".
 
 ![Logo](images/vac_install.png)
+
+Após ter feito a instalação do **Voicemeeter Banana** e do **Virtual Audio Cable**, reinicie o seu computador.
