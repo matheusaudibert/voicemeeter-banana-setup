@@ -80,7 +80,7 @@ Depois de renicializar o seu computador, digite **Banana** na barra de pesquisa 
 
 Ao abrir o aplicativo pela primeira vez, você vai se deparar com isto:
 
-![Logo](images/vac_interface.png)
+![Logo](images/vmb_interface.png)
 
 Não se assuste, esta é a interface padrão do **Voicemeeter Banana**, e logo você vai aprender a como utiliza-lá.
 
