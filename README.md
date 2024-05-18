@@ -232,9 +232,9 @@ Pronto, sua saída de música está configurada.
 
     ![Logo](images/audiodg_priority.png)
 
-  -Defina sua afinidade apenas com a **CPU 0**:
+  - Defina sua afinidade apenas com a **CPU 0**:
 
-  ![Logo](images/audiodg_affinity.png)
+    ![Logo](images/audiodg_affinity.png)
 
 ## Referências
 
