@@ -134,6 +134,8 @@ Não se assuste, esta é a interface padrão do **Voicemeeter Banana**, e logo v
 
     Caso seu aplicativo não esteja configurado com a frequência correta você deve altera-lá clicando em **Preferred Main SampleRate** e selecionando **48.000 Hz**.
 
+    ![Logo](images/vmb_hz.png)
+
 Após seguir todos os passos corretamente, o seu **Voicemeeter Banana** estará devidamente configurado, agora falta configurar as opções de áudio do Windows.
 
 ## Configurando o Windows
