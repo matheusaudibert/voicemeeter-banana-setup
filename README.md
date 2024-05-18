@@ -18,6 +18,7 @@
 
 1. **Faça o download do arquivo do Voice Meeter.**
    
-Faça o dowload [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm
+Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm (Será usada a versão Banana 🍌).
 
-Após fazer o dowload execute o arquivo e reinicie seu computador.
+Após concluir a instalação do aplicativo, execute o arquivo.
+
