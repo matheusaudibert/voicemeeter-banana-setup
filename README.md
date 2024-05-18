@@ -1,22 +1,50 @@
-# Áudio estéreo no Discord usando Better Discord e Voice Meeter
+# Instalando e configurando o Voicemeeter Banana
 
-Áudio estéreo é um sistema de reprodução de som que utiliza dois canais de áudio separados para criar uma experiência sonora mais rica e espacial. Agora, aprenda a como utilizar áudio estéro em seu Discord.
+O Voicemeeter Banana é um software gratuito de mixagem de áudio virtual para Windows. Ele funciona como uma mesa de som digital, permitindo que você conecte e misture diversas fontes de áudio de maneira fácil e com controle preciso da qualidade do som.
+
+## Recursos do Voicemeeter Banana:
+
+- **Mixar várias fontes de áudio:** Microfone, som do computador, música, instrumentos musicais e muito mais.
+
+- **Rotear áudio para diferentes destinos:** Alto-falantes, fones de ouvido, programas de streaming e software de gravação.
+
+- **Aplicar efeitos de áudio:** Equalização, compressão, reverb e outros.
+
+- **Criar mixagens personalizadas:** Salvar e carregar presets para diferentes situações.
+
+- **Monitorar seus níveis de áudio:** Visualizadores de nível de som para cada canal.
+
+## O Voicemeeter Banana é ideal para:
+
+- **Streamers e criadores de conteúdo:** Misturar áudio de microfone, música, jogos e outros programas para transmissões ao vivo e gravações.
+
+- **Músicos:** Gravar e produzir música com vários instrumentos e vozes.
+
+- **Podcasters:** Gravar podcasts com alta qualidade de som.
+
+- **DJs:** Mixar músicas para apresentações ao vivo.
+
+- **Usuários comuns:** Melhorar a qualidade do som do computador para ouvir música, assistir a filmes e jogar.
 
 ## índice
 
-1. [Instalação Voice Meeter](#instalação-voice-meeter)
+Neste repostório será desmonstrado como instalar e configurar o Voicemeeter Banana para separar faixas de áudios advindas de: **aplicativos de músicas** (Spotify, Deezer, Soundcloud...), **aplicativos de comunicação** (Discord, TeamSpeak, VOIPs... ) e **aplicativos restantes** (navegadores, jogos, notificações...).
 
-2. [Configurando o Voice Meeter](#configurando-o-voice-meeter)
+Portanto, você conseguirá manipular separadamente cada uma dessas faixas de áudio.
 
-3. [Instalação Better Discord](#instalação-Better-Discord)
+1. [Instalação do Voicemeeter Banana](#instalação-do-voicemeeter-Banana)
 
-4. [Plugins](#plugins)
+2. [Instalação do Virtual Audio Cable](#instalação-do-virtual-audio-cable)
+
+3. [Configurando o Voicemeeter Banana](#configurando-o-voicemeeter-banana)
+
+4. [Configurando o Windows](#configurando-o-windows)
 
 5. [Créditos](#créditos)
 
-## Instalação Voice Meeter
+## Instalação do Voicemeeter Banana
 
-1. **Faça o download do arquivo do Voice Meeter.**
+1. **Faça o download do arquivo do Voicemeeter Banana.**
 
    Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm (Será usada a versão Banana 🍌).
 
@@ -24,24 +52,6 @@
 
    ![Logo](images/install_voice_meeter.png)
 
-   O windows exibirá uma mensagem dizendo que o sistema deve ser reiniciado, porém não reinicie. A reinicialização da máquina será feita apenas no final de todos os processos.
+## Instalação do Virtual Audio Cable
 
-## Configurando o Voice Meeter
-
-1. **Abra o Voice Meeter.**
-   Na barra de pesquisa do Windows, digite "Banana" e abra o aplicativo. Você se depara com está tela:
-
-   ![Logo](images/voice_meeter_interface.png)
-
-   **Agora siga os seguintes passos:**
-   1. Clique em **MENU** e habilita as seguintes funções:
-      **System Tray** e **Run on Windows Startup**
-
-   2. Clique em **Hardware Input 1** e selecione seu microfone principal (seu dispositivo de entrada de aúdio).
-   3. Clique em **Hardware Out A1 ** e selecione seu fone principal (seu dispositivo de saída de aúdio).
-
-   
-   
-   
-   
-   
+1. **Faça o download do arquivo do Virtual Audio Cable.**
