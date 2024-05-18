@@ -1,1 +1,1 @@
-# voice_meeter_discord
+# Aúdio estéro no discord usando BetterDiscord e Voice Meeter Banana
