@@ -52,7 +52,9 @@ Portanto, você conseguirá manipular separadamente cada uma dessas faixas de á
 
 6. [Configurando a Saída de Comunicação](#configurando-a-saída-de-comunicação)
 
-7. [Créditos](#créditos)
+7. [Observações](#observações)
+
+8. [Referências](#referências)
 
 ## Instalação do Voicemeeter Banana
 
@@ -212,4 +214,25 @@ Para configurar a Saída de Comunicação vou utilizar o **Discord**, mas você 
 
 Pronto, sua saída de música está configurada.
 
-## Créditos
+## Observações
+
+- A atual versão do Voicemeeter Banana sofre com pequenas instabilidades, portanto se o seu áudio, por algum motivo, ficar estranho ou robotizado reinicie o aplicativo clicando em **MENU** e **Restart Audio Engine**.
+
+- Se a sua voz no Discord, ou em seu aplicativo de comunicação estiver robotizada, siga estes passos:
+
+      - Abra o gerenciador de tarefa e vá até **detalhes**.
+      - Procure pelo serviço chamado **audiodg.exe**:
+      ![Logo](image/audiodg.png)
+      - Clique com o botão direito sobre ele.
+      - Defina sua priotidade como **alta**:
+      ![Logo](image/audiodg_priority.png)
+      -Defina sua afinidade apenas com a **CPU 0**:
+      ![Logo](image/audiodg_affinity.png)
+
+## Referências
+
+Para a construção deste repositório foram usadas as seguintes referências.
+
+https://streamlabs.com/content-hub/post/split-audio-using-voicemeeter-banana
+
+https://www.youtube.com/watch?v=0EjDL3BgPk4
