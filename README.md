@@ -178,4 +178,38 @@ Feito isso, seu windows já esta configurado. O últimos passos são configurar 
 
 ## Configurando a Saída de Música
 
+Para configurar a Saída de Música vou utilizar o **Spotify**, mas você pode fazer com qualquer outro aplicativo.
+
+1. Abra o **Spotify** e reproduza uma música.
+
+2. Vá ate as **configurações de sons do Windows**.
+
+3. Selecione a opção **Volume do app e preferências do dispositivo**.
+
+   ![Logo](images/w_sound_options.png)
+
+4. Vá ate o **Spotify** e selecione a opção **CABLE Input (VB-Audio Virtual Cable)**.
+
+   ![Logo](images/w_spotify.png)
+
+Pronto, sua saída de música está configurada.
+
 ## Configurando a Saída de Comunicação
+
+Para configurar a Saída de Comunicação vou utilizar o **Discord**, mas você pode fazer com qualquer outro aplicativo.
+
+1. Abra o **Discord**.
+
+2. Vá ate as configurações.
+
+3. Localiza a configuração **Voz e Vídeo**.
+
+   ![Logo](images/discord_settings.png)
+
+4. Defina o dispositivo de entrada como **VoiceMeeter Output** e o de saída como **VoiceMeeter Aux Input**.
+
+   ![Logo](images/discord_input_output.png)
+
+Pronto, sua saída de música está configurada.
+
+## Créditos
