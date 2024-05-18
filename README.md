@@ -24,6 +24,4 @@ Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/
 
 Após concluir o download do arquivo inicie-o e clique em "Install".
 
-![Logo]((images/install_voice_meeter.png)
-
-(Não será necessário reiniciar o computador agora).
+(Não será necessário reiniciar o computador agora.)
