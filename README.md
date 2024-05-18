@@ -1,6 +1,6 @@
 # Áudio estéreo no Discord usando Better Discord e Voice Meeter
 
-Aprenda a como configurar seu áudio estéro no Discord.
+Áudio estéreo é um sistema de reprodução de som que utiliza dois canais de áudio separados para criar uma experiência sonora mais rica e espacial. Agora, aprenda a como utilizar áudio estéro em seu Discord.
 
 ## índice
 
