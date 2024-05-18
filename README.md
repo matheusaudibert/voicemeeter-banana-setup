@@ -219,15 +219,14 @@ Pronto, sua saída de música está configurada.
 - A atual versão do Voicemeeter Banana sofre com pequenas instabilidades, portanto se o seu áudio, por algum motivo, ficar estranho ou robotizado reinicie o aplicativo clicando em **MENU** e **Restart Audio Engine**.
 
 - Se a sua voz no Discord, ou em seu aplicativo de comunicação estiver robotizada, siga estes passos:
-
-      - Abra o gerenciador de tarefa e vá até **detalhes**.
-      - Procure pelo serviço chamado **audiodg.exe**:
-      ![Logo](image/audiodg.png)
-      - Clique com o botão direito sobre ele.
-      - Defina sua priotidade como **alta**:
-      ![Logo](image/audiodg_priority.png)
-      -Defina sua afinidade apenas com a **CPU 0**:
-      ![Logo](image/audiodg_affinity.png)
+  - Abra o gerenciador de tarefa e vá até **detalhes**.
+  - Procure pelo serviço chamado **audiodg.exe**:
+    ![Logo](image/audiodg.png)
+  - Clique com o botão direito sobre ele.
+  - Defina sua priotidade como **alta**:
+    ![Logo](image/audiodg_priority.png)
+    -Defina sua afinidade apenas com a **CPU 0**:
+    ![Logo](image/audiodg_affinity.png)
 
 ## Referências
 
