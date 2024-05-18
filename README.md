@@ -76,8 +76,20 @@ Após ter feito a instalação do **Voicemeeter Banana** e do **Virtual Audio Ca
 
 ## Configurando o Voicemeeter Banana
 
-Depois de renicializar o seu computador, digite na barra de pesquisa do Windows: "Banana", e abra o aplicativo.
+Depois de renicializar o seu computador, digite **Banana** na barra de pesquisa do Windows e abra o aplicativo.
 
-Ao abrir o aplicativo pela primeira vez, você vai se deparar com algo neste estilo:
+Ao abrir o aplicativo pela primeira vez, você vai se deparar com isto:
 
 ![Logo](images/vac_interface.png)
+
+Não se assuste, esta é a interface padrão do **Voicemeeter Banana**, e logo você vai aprender a como utiliza-lá.
+
+**Para começar o a configurar o aplicativo, siga estes passos:**
+
+1. Clique em **MENU** e habilite as opções **System Tray** e **Run on Windows Startup**.
+
+2. Clique com o botão direito em **VIRTUAL INPUTS** e nomeie cada seção com um nome (**Sound** e **Voice**):
+
+Seu programa deve estar desta maneira:
+
+![Logo](images/vmb_virtual_inputs.png)
