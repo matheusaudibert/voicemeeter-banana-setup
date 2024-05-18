@@ -17,13 +17,14 @@
 ## Instalação Voice Meeter
 
 1. **Faça o download do arquivo do Voice Meeter.**
+
+   Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm (Será usada a versão Banana 🍌).
+
+   Após concluir o download do arquivo, inicie-o e clique em "Install".
+
+   ![Logo](images/install_voice_meeter.png)
+
+   O windows exibirá uma mensagem dizendo que o sistema deve ser reiniciado, porém não reinicie. A reinicialização da máquina será feita apenas no final de todos os processos.
+
+3. **Abra o Voice Meeter.**
    
-Faça o download [aqui](https://github.com/matheusaudibert/voice_meeter_discord/blob/main/voicemeeterbanana/VoicemeeterProSetup.exe) ou baixe no site oficial: https://vb-audio.com/Voicemeeter/banana.htm (Será usada a versão Banana 🍌).
-
-Após concluir o download do arquivo, inicie-o e clique em "Install".
-
-![Logo](images/install_voice_meeter.png)
-
-O windows exibirá uma mensagem dizendo que o sistema deve ser reiniciado, porém não reinicie. A reinicialização da máquina será feita apenas no final de todos os processos.
-
-2. 
