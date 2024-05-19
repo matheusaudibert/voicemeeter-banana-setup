@@ -238,6 +238,6 @@ Pronto, sua saída de música está configurada.
 
 Para a construção deste repositório foram usadas as seguintes referências.
 
-https://streamlabs.com/content-hub/post/split-audio-using-voicemeeter-banana
+Streamlabs - https://streamlabs.com/content-hub/post/split-audio-using-voicemeeter-banana
 
-https://www.youtube.com/watch?v=0EjDL3BgPk4
+Ian Worcman - https://www.youtube.com/watch?v=0EjDL3BgPk4
